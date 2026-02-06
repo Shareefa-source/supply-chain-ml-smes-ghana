@@ -1,0 +1,1 @@
+# supply-chain-ml-smes-ghana
