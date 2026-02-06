@@ -45,8 +45,6 @@ stockouts, minimize overstocking, and improve supply chain efficiency.
 
 ---
 
----
-
 ## 📊 Methodology
 1. Data collection through questionnaires  
 2. Data cleaning and preprocessing  
@@ -70,6 +68,15 @@ stockouts, minimize overstocking, and improve supply chain efficiency.
 **Sharifatu Musah**  
 Aspiring Data Analyst  
 **Skills**: SQL | Python | Power BI | Machine Learning  
+
+
+
+
+
+
+
+
+
 
 
 
