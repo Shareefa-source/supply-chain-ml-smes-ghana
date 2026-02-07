@@ -66,7 +66,7 @@ stockouts, minimize overstocking, and improve supply chain efficiency.
 
 ## 👤 Author
 **Sharifatu Musah**  
-Aspiring Data Analyst  
+ Data Analyst  
 **Skills**: SQL | Python | Power BI | Machine Learning  
 
 
